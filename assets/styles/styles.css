@@ -1,0 +1,23 @@
+/*GOOGLE FONTS Parisienne*/
+@import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
+
+/*GOOGLE FONTS Playfar*/
+@import url('https://fonts.googleapis.com/css2?family=Playfair:ital,opsz,wght@0,5..1200,300..900;1,5..1200,300..900&display=swap');
+
+:root {
+    --primary-color: #D2D0C7;
+    --secondary-color: #A4AC6E;
+    --btnCard-color: #A09386;
+    --card-color: #E7E5DB;
+    --text--one: #F3F2EF;
+    --text-two: #636260;
+}
+
+html {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
